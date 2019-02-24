@@ -62,7 +62,7 @@ including modeling text to image with various GANs.
 
 최근에 cross domain 관련한 GAN 논문들이 나오고 있습니다.
 특히 {영상} <=> {영상}, {자연어} <=> {자연어} 식의 구조의 논문들이 나오고 있는데
-그렇다면 cross modality, 서로 다른 모달리티를 갖은 두 집합에 대한 연결,
+그렇다면 cross modality, 서로 다른 모달리티를 갖는 두 집합에 대한 연결,
 {영상 => 자연어} <=> {자연어 => 영상} 의 두 generative model 끼리의 연결은 어떻게 구현해볼수 있을까 하는 주제에 관심을 갖고 있습니다.
 매우 재미있어보이는 주제 라고 생각하여 진행하고있습니다.
 
