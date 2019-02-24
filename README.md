@@ -40,7 +40,7 @@ https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram-1
 
 in Q2 of 2019
 
-(업데이트 예정)
+____업데이트 예정
 
 <hr/>
 
