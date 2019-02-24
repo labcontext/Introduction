@@ -1,7 +1,7 @@
 # koreaAI_context_LAB
 
 한국인공지능연구소 산하 GAN과 관련된 연구를 진행하고 있는
-LAB 맥락은 직장인, 대학(원)생 등 6명으로 구성되있는 연구그룹입니다.
+LAB 맥락은 직장인, 대학(원)생 등 10명으로 구성되있는 연구그룹입니다.
 
 our Laboratory whose name is "맥락" in korean and "CONTEXT" in english is under AI-LAB KOREA 
 and we are made up of 6 people including workers, Bachelors, masters...etc.
@@ -28,11 +28,19 @@ https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram
 
 <hr/>
 
-2019년도 1분기 (현재 진행중)
+2019년도 1분기
 
-in Q1 of 2019 (on going)
+in Q1 of 2019
 
 https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram-1 
+
+<hr/>
+
+2019년도 2분기
+
+in Q2 of 2019
+
+(업데이트 예정)
 
 <hr/>
 
