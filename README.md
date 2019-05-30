@@ -46,7 +46,7 @@ https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram-2
 
 2019년도 3분기
 
-in Q2 of 2019
+in Q3 of 2019
 
 ...link - not ready ....
 
