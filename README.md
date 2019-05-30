@@ -109,6 +109,14 @@ https://docs.google.com/document/d/141f839bNky8Tx5jfvu7q7IqFXdNzuszL8x15zh26De0/
 
 <hr/>
 
+image inpainting / image to image translation 관련 자료 정리
+
+Theories and materials about image inpainting _ image to image translation
+
+https://docs.google.com/document/d/1l1Yn6iL9mBsqojYSXRKoRlKN86y9UWYrTCQ4dyNJVkg/edit?usp=sharing
+
+<hr/>
+
 &nbsp;
 &nbsp;
 &nbsp;
