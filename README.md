@@ -51,6 +51,14 @@ in Q3 of 2019
 https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram-3
 
 <hr/>
+
+LAB CONTEXT BLOG 
+
+https://labcontext.github.io/
+
+init 2019. 06
+
+<hr/>
 &nbsp;
 &nbsp;
 &nbsp;
