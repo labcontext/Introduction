@@ -48,7 +48,7 @@ https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram-2
 
 in Q3 of 2019
 
-...link - not ready ....
+https://www.ai-lab.kr/labs/maegrag-raebjang-ganguram-3
 
 <hr/>
 &nbsp;
