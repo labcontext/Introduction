@@ -57,6 +57,7 @@ LAB CONTEXT BLOG
 https://labcontext.github.io/
 
 init 2019. 06
+after Q4 of 2019
 
 <hr/>
 &nbsp;
